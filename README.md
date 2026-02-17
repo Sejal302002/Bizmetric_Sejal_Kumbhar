@@ -1,7 +1,7 @@
 1.Appolo medical website ERD-
     In this i have try to create the functionalities like login,signup ,buy products,product category and payment option is there .
 
-2. Assignemnt 1:
+2.Assignemnt 1:
     In this file i have try to solve the examples related to list comprehension
     and some examples of  Lambda functions
 
