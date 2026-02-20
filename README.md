@@ -1,4 +1,4 @@
-**project 1**
+**project 1** : Hotel Billing 
     log_bill_DB:
 
     
@@ -9,7 +9,7 @@
               # User login data,order data and billing data all of them are store in database
 
               
-**project 2**
+**project 2** Hostel and course facility
     DB_courses:
     
             # In this project I try to built student logging system along with the hostel facillities.
@@ -19,7 +19,7 @@
               
       
 **project 3**
-    appollo_DB:
+    appollo_DB: Appollo website 
     
             # In this project I try to built backend logic like Appollo medicine website.
             # First I try to create AppolloLogin for the user.
